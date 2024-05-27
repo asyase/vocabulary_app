@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vocabulary_flashcards/static/css/main.9d7adda5.css",
+    "main.js": "/vocabulary_flashcards/static/js/main.d033e0c8.js",
+    "static/media/404.png": "/vocabulary_flashcards/static/media/404.622bb44ac67318512e0b.png",
+    "static/media/error.png": "/vocabulary_flashcards/static/media/error.bb96fa2027bc91b0ed25.png",
+    "static/media/languageIcon.png": "/vocabulary_flashcards/static/media/languageIcon.24d328dc0a0c11dcde7a.png",
+    "index.html": "/vocabulary_flashcards/index.html",
+    "main.9d7adda5.css.map": "/vocabulary_flashcards/static/css/main.9d7adda5.css.map",
+    "main.d033e0c8.js.map": "/vocabulary_flashcards/static/js/main.d033e0c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7adda5.css",
+    "static/js/main.d033e0c8.js"
+  ]
+}
